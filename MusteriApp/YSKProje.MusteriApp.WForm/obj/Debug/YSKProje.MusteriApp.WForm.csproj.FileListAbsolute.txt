@@ -1,0 +1,13 @@
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\bin\Debug\YSKProje.MusteriApp.WForm.exe.config
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\bin\Debug\YSKProje.MusteriApp.WForm.exe
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\bin\Debug\YSKProje.MusteriApp.WForm.pdb
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.csprojAssemblyReference.cache
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.Form1.resources
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.Properties.Resources.resources
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.csproj.GenerateResource.cache
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.exe
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.pdb
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.FrmMusteri.resources
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.FrmMusteriIslem.resources
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.FrmAdres.resources
+C:\Users\yskah\Desktop\MusteriApp\YSKProje.MusteriApp.WForm\obj\Debug\YSKProje.MusteriApp.WForm.FrmAdresIslem.resources
